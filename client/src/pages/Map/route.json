@@ -1,0 +1,2270 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.515209,
+          40.1872023
+        ]
+      },
+      "properties": {
+        "Name": "Yerevan",
+        "Country": "Armenia",
+        "Notes": "Outside Schengen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.842778,
+          47.083333
+        ]
+      },
+      "properties": {
+        "Name": "Grossglockner High Alpine Road",
+        "Country": "Austria",
+        "Notes": "beauty,nature,road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6492617,
+          47.5622342
+        ]
+      },
+      "properties": {
+        "Name": "Hallstatt",
+        "Country": "Austria",
+        "Notes": "beauty,mountains,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4041024,
+          47.2692124
+        ]
+      },
+      "properties": {
+        "Name": "Innsbruck",
+        "Country": "Austria",
+        "Notes": "beauty,city,culture,mountains,ski/board,snow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8169016,
+          46.9006673
+        ]
+      },
+      "properties": {
+        "Name": "Nockalm Road",
+        "Country": "Austria",
+        "Notes": "beauty,mountains,nature,road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05501,
+          47.80949
+        ]
+      },
+      "properties": {
+        "Name": "Salzburg",
+        "Country": "Austria",
+        "Notes": "beauty,city,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5183185,
+          47.8794096
+        ]
+      },
+      "properties": {
+        "Name": "Salzkammergut",
+        "Country": "Austria",
+        "Notes": "beauty,mountains,nature,ski/board,snow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738189,
+          48.2081743
+        ]
+      },
+      "properties": {
+        "Name": "Vienna",
+        "Country": "Austria",
+        "Notes": "beauty,city,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.154422,
+          46.6245592
+        ]
+      },
+      "properties": {
+        "Name": "Worthersee",
+        "Country": "Austria",
+        "Notes": "beach,beauty,culture,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4130763,
+          43.8562586
+        ]
+      },
+      "properties": {
+        "Name": "Sarajevo",
+        "Country": "Bosnia",
+        "Notes": "adventure sports,beauty,city,culture, Outside Schengen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0787979,
+          42.7468184
+        ]
+      },
+      "properties": {
+        "Name": "Balkan Mountains",
+        "Country": "Bulgaria",
+        "Notes": "beauty,mountains,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.485653,
+          41.8404241
+        ]
+      },
+      "properties": {
+        "Name": "Bansko",
+        "Country": "Bulgaria",
+        "Notes": "city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7697731,
+          41.5262382
+        ]
+      },
+      "properties": {
+        "Name": "Meadows in the mountains",
+        "Country": "Bulgaria",
+        "Notes": "beauty,festival,mountains,party, 2nd - 5th June "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3218675,
+          42.6977082
+        ]
+      },
+      "properties": {
+        "Name": "Sofia",
+        "Country": "Bulgaria",
+        "Notes": "City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7139182,
+          42.6883305
+        ]
+      },
+      "properties": {
+        "Name": "Sunny beach",
+        "Country": "Bulgaria",
+        "Notes": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6527099,
+          43.3048913
+        ]
+      },
+      "properties": {
+        "Name": "Brač Island",
+        "Country": "Croatia",
+        "Notes": "beach,beauty,party,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2000001,
+          45.1
+        ]
+      },
+      "properties": {
+        "Name": "Croatia",
+        "Country": "Croatia",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0944238,
+          42.6506606
+        ]
+      },
+      "properties": {
+        "Name": "Dubrovnik",
+        "Country": "Croatia",
+        "Notes": "beauty,city,culture,nature,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6577596,
+          43.8001174
+        ]
+      },
+      "properties": {
+        "Name": "Love international festival",
+        "Country": "Croatia",
+        "Notes": "beauty,festival,party 13th - 19th July"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7864697,
+          43.6805249
+        ]
+      },
+      "properties": {
+        "Name": "Obonjan Island",
+        "Country": "Croatia",
+        "Notes": "beach,nature,party,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9916875,
+          44.4672189
+        ]
+      },
+      "properties": {
+        "Name": "Pag island",
+        "Country": "Croatia",
+        "Notes": "beach,culture,festival,party,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5976433,
+          44.8687867
+        ]
+      },
+      "properties": {
+        "Name": "Plitvice Lake",
+        "Country": "Croatia",
+        "Notes": "beauty,culture,lakes,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8495788,
+          44.8666232
+        ]
+      },
+      "properties": {
+        "Name": "Pula",
+        "Country": "Croatia",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4401935,
+          43.5081323
+        ]
+      },
+      "properties": {
+        "Name": "Split",
+        "Country": "Croatia",
+        "Notes": "beach,beauty,city,nature,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6068371,
+          49.1950602
+        ]
+      },
+      "properties": {
+        "Name": "Brno",
+        "Country": "Czech",
+        "Notes": "city,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3736371,
+          49.7384314
+        ]
+      },
+      "properties": {
+        "Name": "Pilsen",
+        "Country": "Czech",
+        "Notes": "beauty,city,culture,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378005,
+          50.0755381
+        ]
+      },
+      "properties": {
+        "Name": "Prague",
+        "Country": "Czech",
+        "Notes": "city,culture,party, Zizkov, Holešovice, Vršovice, Zizkov Tower, Chapu like hat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683372,
+          55.6760968
+        ]
+      },
+      "properties": {
+        "Name": "Copenhagen",
+        "Country": "Denmark",
+        "Notes": "city,culture,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5964061,
+          55.673412
+        ]
+      },
+      "properties": {
+        "Name": "Freetown Christiania",
+        "Country": "Denmark",
+        "Notes": "city,culture,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9656254,
+          59.3540582
+        ]
+      },
+      "properties": {
+        "Name": "Kiviõli linn",
+        "Country": "Estonia",
+        "Notes": "adventure sports,beauty,mountains,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7535747,
+          59.4369608
+        ]
+      },
+      "properties": {
+        "Name": "Tallinn",
+        "Country": "Estonia",
+        "Notes": "beauty,city,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.558626,
+          43.4831519
+        ]
+      },
+      "properties": {
+        "Name": "Biarritz",
+        "Country": "France",
+        "Notes": "beach,surfing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.486076,
+          48.390394
+        ]
+      },
+      "properties": {
+        "Name": "Brest",
+        "Country": "France",
+        "Notes": "city,party,surfing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7027594,
+          44.4317226
+        ]
+      },
+      "properties": {
+        "Name": "Cevennes",
+        "Country": "France",
+        "Notes": "National Parc, Beauty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.869433,
+          45.923697
+        ]
+      },
+      "properties": {
+        "Name": "Chamonix",
+        "Country": "France",
+        "Notes": "adventure sports,beauty,friends,mountains,party,ski/board"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.030626,
+          45.417126
+        ]
+      },
+      "properties": {
+        "Name": "Col de l’Iseran",
+        "Country": "France",
+        "Notes": "beauty,mountains,nature,road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2133338,
+          44.5896525
+        ]
+      },
+      "properties": {
+        "Name": "Dune du pilat",
+        "Country": "France",
+        "Notes": "Big sand dune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3976871,
+          43.6646192
+        ]
+      },
+      "properties": {
+        "Name": "Hossegor",
+        "Country": "France",
+        "Notes": "beach,surfing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8948332,
+          42.6886591
+        ]
+      },
+      "properties": {
+        "Name": "Perpignan",
+        "Country": "France",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2116438,
+          44.0144936
+        ]
+      },
+      "properties": {
+        "Name": "Provence",
+        "Country": "France",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.827096,
+          41.7151377
+        ]
+      },
+      "properties": {
+        "Name": "Tbiliisi",
+        "Country": "Georgia",
+        "Notes": "Outside Schengen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.5200066
+        ]
+      },
+      "properties": {
+        "Name": "Berlin",
+        "Country": "Germany",
+        "Notes": "city,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7593601,
+          51.06516
+        ]
+      },
+      "properties": {
+        "Name": "Bunte Republik Neustadt, BRN, Dresden",
+        "Country": "Germany",
+        "Notes": "19th June Festival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7372621,
+          51.0504088
+        ]
+      },
+      "properties": {
+        "Name": "Dresden",
+        "Country": "Germany",
+        "Notes": "Cafe Europa, La Browski, Neustadt, Katys Garage, Heidelberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.585826,
+          48.8112022
+        ]
+      },
+      "properties": {
+        "Name": "Romantische Strasse",
+        "Country": "Germany",
+        "Notes": "beauty,nature,road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0229607,
+          49.3964234
+        ]
+      },
+      "properties": {
+        "Name": "Saarland",
+        "Country": "Germany",
+        "Notes": "friends,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1829321,
+          48.7758459
+        ]
+      },
+      "properties": {
+        "Name": "Stuttgart",
+        "Country": "Germany",
+        "Notes": "beauty,city,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3776734,
+          37.1035665
+        ]
+      },
+      "properties": {
+        "Name": "Greece - Cyclades islands",
+        "Country": "Greece",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.287085,
+          40.3694997
+        ]
+      },
+      "properties": {
+        "Name": "Halkadiki",
+        "Country": "Greece",
+        "Notes": "beauty,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2825598,
+          36.7225782
+        ]
+      },
+      "properties": {
+        "Name": "Ios",
+        "Country": "Greece",
+        "Notes": "beach,beauty,culture,party,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444191,
+          40.6400629
+        ]
+      },
+      "properties": {
+        "Name": "Thessaloniki",
+        "Country": "Greece",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.040235,
+          47.497912
+        ]
+      },
+      "properties": {
+        "Name": "Budapest",
+        "Country": "Hungary",
+        "Notes": "Beer Spa Bath, Party Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0398397,
+          47.4956136
+        ]
+      },
+      "properties": {
+        "Name": "Daad Festival, Budapest",
+        "Country": "Hungary",
+        "Notes": "16-19th June Festival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4369705,
+          46.7699836
+        ]
+      },
+      "properties": {
+        "Name": "Ozara Festival, Budapest",
+        "Country": "Hungary",
+        "Notes": "1st-7th August Festival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.545477,
+          47.2840844
+        ]
+      },
+      "properties": {
+        "Name": "Pilis",
+        "Country": "Hungary",
+        "Notes": "beauty,mountains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0463939,
+          47.5266408
+        ]
+      },
+      "properties": {
+        "Name": "Sziget, Budapest",
+        "Country": "Hungary",
+        "Notes": "10-15th August Festival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6028963,
+          40.6333389
+        ]
+      },
+      "properties": {
+        "Name": "Amalfi coast",
+        "Country": "Italy",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5581824,
+          45.7586155
+        ]
+      },
+      "properties": {
+        "Name": "Arona",
+        "Country": "Italy",
+        "Notes": "beauty,culture,nature,ski/board,snow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3426162,
+          44.494887
+        ]
+      },
+      "properties": {
+        "Name": "Bologna",
+        "Country": "Italy",
+        "Notes": "beauty,city,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.222154,
+          40.5532009
+        ]
+      },
+      "properties": {
+        "Name": "Capri",
+        "Country": "Italy",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6438793,
+          44.1460939
+        ]
+      },
+      "properties": {
+        "Name": "Cinque Terres",
+        "Country": "Italy",
+        "Notes": "beauty,city,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.946256,
+          44.4056499
+        ]
+      },
+      "properties": {
+        "Name": "Genoa",
+        "Country": "Italy",
+        "Notes": "beauty,city,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5651323,
+          46.4188105
+        ]
+      },
+      "properties": {
+        "Name": "Lago del predil - lake",
+        "Country": "Italy",
+        "Notes": "beauty,lakes,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2571676,
+          46.0160486
+        ]
+      },
+      "properties": {
+        "Name": "Lake como",
+        "Country": "Italy",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6351414,
+          45.6049385
+        ]
+      },
+      "properties": {
+        "Name": "Lake Garda",
+        "Country": "Italy",
+        "Notes": "beauty,lakes,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.189982,
+          45.4642035
+        ]
+      },
+      "properties": {
+        "Name": "Milan",
+        "Country": "Italy",
+        "Notes": "beauty,city,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4849812,
+          40.6280528
+        ]
+      },
+      "properties": {
+        "Name": "Positano",
+        "Country": "Italy",
+        "Notes": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3757985,
+          40.6262925
+        ]
+      },
+      "properties": {
+        "Name": "Sorrento",
+        "Country": "Italy",
+        "Notes": "beach,beauty,city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5161035,
+          42.658503
+        ]
+      },
+      "properties": {
+        "Name": "Terme di saturnia",
+        "Country": "Italy",
+        "Notes": "Natural spa,Springs,beauty,waterfalls"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6531909,
+          42.4297332
+        ]
+      },
+      "properties": {
+        "Name": "Kotor Bay, Montenegro",
+        "Country": "Montenegro",
+        "Notes": "beauty,city,culture,mountains,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1773482,
+          35.2393656
+        ]
+      },
+      "properties": {
+        "Name": "Akchour Waterfalls",
+        "Country": "Morocco",
+        "Notes": "beauty,nature,waterfalls"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2683641,
+          35.168796
+        ]
+      },
+      "properties": {
+        "Name": "Chefchaouen blue city",
+        "Country": "Morocco",
+        "Notes": "beauty,city,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9810845,
+          31.6294723
+        ]
+      },
+      "properties": {
+        "Name": "Marrakesh",
+        "Country": "Morocco",
+        "Notes": "adventure sports,beauty,city,culture,nature,surfing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4777326,
+          51.9244201
+        ]
+      },
+      "properties": {
+        "Name": "Rotterdam",
+        "Country": "Netherlands",
+        "Notes": "city,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7386271,
+          60.834769
+        ]
+      },
+      "properties": {
+        "Name": "Stalheim",
+        "Country": "Norway",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0833333,
+          62.85
+        ]
+      },
+      "properties": {
+        "Name": "Trolleim",
+        "Country": "Norway",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6466384,
+          54.3520252
+        ]
+      },
+      "properties": {
+        "Name": "Gdansk",
+        "Country": "Poland",
+        "Notes": "city,culture,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9449799,
+          50.0646501
+        ]
+      },
+      "properties": {
+        "Name": "Krakow",
+        "Country": "Poland",
+        "Notes": "city,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5406663,
+          54.3919577
+        ]
+      },
+      "properties": {
+        "Name": "Tricity",
+        "Country": "Poland",
+        "Notes": "city,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.930834,
+          37.0179538
+        ]
+      },
+      "properties": {
+        "Name": "Algarve",
+        "Country": "Portugal",
+        "Notes": "Pizza Party Community"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3364429,
+          39.3736569
+        ]
+      },
+      "properties": {
+        "Name": "Baleal",
+        "Country": "Portugal",
+        "Notes": "beach,beauty,nature,surfing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.180722,
+          39.976314
+        ]
+      },
+      "properties": {
+        "Name": "Boom Festival",
+        "Country": "Portugal",
+        "Notes": "festival,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.180722,
+          39.976314
+        ]
+      },
+      "properties": {
+        "Name": "Boom Festival, Alcafozes",
+        "Country": "Portugal",
+        "Notes": "28-29th July Festival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4677851,
+          37.1068147
+        ]
+      },
+      "properties": {
+        "Name": "Careveorio",
+        "Country": "Portugal",
+        "Notes": "White buildings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.214829,
+          39.4126259
+        ]
+      },
+      "properties": {
+        "Name": "Coastal Lagoon",
+        "Country": "Portugal",
+        "Notes": "beauty,culture,sun,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4102573,
+          40.2033145
+        ]
+      },
+      "properties": {
+        "Name": "Coimbra",
+        "Country": "Portugal",
+        "Notes": "beauty,city,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.913502,
+          38.571431
+        ]
+      },
+      "properties": {
+        "Name": "Evera",
+        "Country": "Portugal",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6763889,
+          37.0786111
+        ]
+      },
+      "properties": {
+        "Name": "Isla de tavira",
+        "Country": "Portugal",
+        "Notes": "Sand island for camping"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6730275,
+          37.1027881
+        ]
+      },
+      "properties": {
+        "Name": "Lagos",
+        "Country": "Portugal",
+        "Notes": "beach,city,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1393366,
+          38.7222524
+        ]
+      },
+      "properties": {
+        "Name": "Lisbon",
+        "Country": "Portugal",
+        "Notes": "city,culture,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6955928,
+          37.1553757
+        ]
+      },
+      "properties": {
+        "Name": "Pego d'inferno",
+        "Country": "Portugal",
+        "Notes": "Watefall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.387622,
+          39.3603291
+        ]
+      },
+      "properties": {
+        "Name": "Peniche",
+        "Country": "Portugal",
+        "Notes": "beach,beauty,culture,friends,nature,surfing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6291053,
+          41.1579438
+        ]
+      },
+      "properties": {
+        "Name": "Porto",
+        "Country": "Portugal",
+        "Notes": "city,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8790484,
+          37.0465758
+        ]
+      },
+      "properties": {
+        "Name": "Praia da Ingrina",
+        "Country": "Portugal",
+        "Notes": "beach,beauty,overnight stays allowed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4131165,
+          37.0896981
+        ]
+      },
+      "properties": {
+        "Name": "praia da marinha",
+        "Country": "Portugal",
+        "Notes": "beach,beauty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5353523,
+          37.1165537
+        ]
+      },
+      "properties": {
+        "Name": "Praia da Rocha",
+        "Country": "Portugal",
+        "Notes": "party,surfing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6567889,
+          41.066554
+        ]
+      },
+      "properties": {
+        "Name": "Praia de Miramar",
+        "Country": "Portugal",
+        "Notes": "party,surfing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.903963,
+          37.1672129
+        ]
+      },
+      "properties": {
+        "Name": "Praia do Amado",
+        "Country": "Portugal",
+        "Notes": "party,surfing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43187,
+          37.08665
+        ]
+      },
+      "properties": {
+        "Name": "Praia do Carvalho",
+        "Country": "Portugal",
+        "Notes": "beach,beauty,no overnight stays"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8680556,
+          37.045
+        ]
+      },
+      "properties": {
+        "Name": "Praia do Zavial",
+        "Country": "Portugal",
+        "Notes": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0222548,
+          37.0309793
+        ]
+      },
+      "properties": {
+        "Name": "Quinte du lago",
+        "Country": "Portugal",
+        "Notes": "Resort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96676,
+          45.943161
+        ]
+      },
+      "properties": {
+        "Name": "Carpathian mountains",
+        "Country": "Romania",
+        "Notes": "beauty,mountains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6187464,
+          44.2623995
+        ]
+      },
+      "properties": {
+        "Name": "Mamaia",
+        "Country": "Romania",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6250337,
+          45.453372
+        ]
+      },
+      "properties": {
+        "Name": "The Transfagarasan",
+        "Country": "Romania",
+        "Notes": "beauty,mountains,road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5725487,
+          43.7529244
+        ]
+      },
+      "properties": {
+        "Name": "Vama Veche",
+        "Country": "Romania",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4612299,
+          44.8125449
+        ]
+      },
+      "properties": {
+        "Name": "Belgrade",
+        "Country": "Serbia",
+        "Notes": "city,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4612299,
+          44.8125449
+        ]
+      },
+      "properties": {
+        "Name": "Beograd",
+        "Country": "Serbia",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9427195,
+          46.3005652
+        ]
+      },
+      "properties": {
+        "Name": "Bohinj",
+        "Country": "Slovenia",
+        "Notes": "beauty,mountains,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5516829,
+          46.3376387
+        ]
+      },
+      "properties": {
+        "Name": "Bovec",
+        "Country": "Slovenia",
+        "Notes": "beauty,culture,mountains,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7857145,
+          46.4845293
+        ]
+      },
+      "properties": {
+        "Name": "KRANJSKA GORA",
+        "Country": "Slovenia",
+        "Notes": "mountains,nature,ski/board"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0938053,
+          46.363598
+        ]
+      },
+      "properties": {
+        "Name": "Lake bled",
+        "Country": "Slovenia",
+        "Notes": "beauty,mountains,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8594144,
+          46.2840104
+        ]
+      },
+      "properties": {
+        "Name": "lake bohinj (less crowded than lake bled)",
+        "Country": "Slovenia",
+        "Notes": "beauty,lakes,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5057515,
+          46.0569465
+        ]
+      },
+      "properties": {
+        "Name": "Ljubljana",
+        "Country": "Slovenia",
+        "Notes": "city,culture,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5142084,
+          46.3351188
+        ]
+      },
+      "properties": {
+        "Name": "Slap Virje waterfalls",
+        "Country": "Slovenia",
+        "Notes": "beauty,nature,waterfalls"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5956455,
+          46.0506799
+        ]
+      },
+      "properties": {
+        "Name": "Soca River",
+        "Country": "Slovenia",
+        "Notes": "beauty,lakes,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5905321,
+          46.2606648
+        ]
+      },
+      "properties": {
+        "Name": "Veliki Kozjak Gorge",
+        "Country": "Slovenia",
+        "Notes": "beauty,nature,waterfalls"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7377588,
+          46.4925762
+        ]
+      },
+      "properties": {
+        "Name": "Zelenci Springs",
+        "Country": "Slovenia",
+        "Notes": "beauty,lakes,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4637136,
+          36.834047
+        ]
+      },
+      "properties": {
+        "Name": "Almeria",
+        "Country": "Spain",
+        "Notes": "Free party, van community"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0533761,
+          36.9621715
+        ]
+      },
+      "properties": {
+        "Name": "Alpujarras",
+        "Country": "Spain",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8593267,
+          43.3613953
+        ]
+      },
+      "properties": {
+        "Name": "Asturias",
+        "Country": "Spain",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.168568,
+          41.3873974
+        ]
+      },
+      "properties": {
+        "Name": "Barcelona",
+        "Country": "Spain",
+        "Notes": "https://www.reddit.com/r/digitalnomad/comments/q9sc56/best_neighborhoods_in_barcelona/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0641504,
+          40.055385
+        ]
+      },
+      "properties": {
+        "Name": "Benicassim, Valencia",
+        "Country": "Spain",
+        "Notes": "14-17th July Festival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2422484,
+          36.7817465
+        ]
+      },
+      "properties": {
+        "Name": "Cabo de gata almeria",
+        "Country": "Spain",
+        "Notes": "beauty,mountains,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2885962,
+          36.5270612
+        ]
+      },
+      "properties": {
+        "Name": "Cádiz",
+        "Country": "Spain",
+        "Notes": "city,culture,party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2759465,
+          40.4546831
+        ]
+      },
+      "properties": {
+        "Name": "Cervera del Maestre - breath taking village",
+        "Country": "Spain",
+        "Notes": "beauty,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0175712,
+          42.2755267
+        ]
+      },
+      "properties": {
+        "Name": "Costa brava",
+        "Country": "Spain",
+        "Notes": "beach,beauty,culture,nature,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8947061,
+          36.7908751
+        ]
+      },
+      "properties": {
+        "Name": "Frigilana",
+        "Country": "Spain",
+        "Notes": "beauty,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1338558,
+          42.5750554
+        ]
+      },
+      "properties": {
+        "Name": "Galacia",
+        "Country": "Spain",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5985571,
+          37.1773363
+        ]
+      },
+      "properties": {
+        "Name": "Granada",
+        "Country": "Spain",
+        "Notes": "city,culture,party,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5979968,
+          40.7537394
+        ]
+      },
+      "properties": {
+        "Name": "International Dub Gathering, Pla dels Catalans",
+        "Country": "Spain",
+        "Notes": "12-14th May Festival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1260744,
+          36.6850064
+        ]
+      },
+      "properties": {
+        "Name": "Jerez",
+        "Country": "Spain",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4217199,
+          36.7211784
+        ]
+      },
+      "properties": {
+        "Name": "Malaga",
+        "Country": "Spain",
+        "Notes": "beauty,city,culture,sun,sea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4232213,
+          36.9017931
+        ]
+      },
+      "properties": {
+        "Name": "Órgiva",
+        "Country": "Spain",
+        "Notes": "party? Join the Órgiva Massive fb group\nbar ruta de la plata aka the metal bar before 17.00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0011899,
+          42.6681804
+        ]
+      },
+      "properties": {
+        "Name": "Pyrenees mountains",
+        "Country": "Spain",
+        "Notes": "beauty,lakes,mountains,nature,waterfalls"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0078451,
+          42.9781529
+        ]
+      },
+      "properties": {
+        "Name": "Riaño",
+        "Country": "Spain",
+        "Notes": "beauty,culture,lakes,mountains,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9812313,
+          43.318334
+        ]
+      },
+      "properties": {
+        "Name": "San Sebastian",
+        "Country": "Spain",
+        "Notes": "beach,beauty,city,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9812313,
+          43.318334
+        ]
+      },
+      "properties": {
+        "Name": "San sebastian",
+        "Country": "Spain",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4661973,
+          37.4730074
+        ]
+      },
+      "properties": {
+        "Name": "Sanluca de guadiana",
+        "Country": "Spain",
+        "Notes": "Zip wire spain to portugal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9844589,
+          37.3890924
+        ]
+      },
+      "properties": {
+        "Name": "Seville",
+        "Country": "Spain",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3995519,
+          37.0928438
+        ]
+      },
+      "properties": {
+        "Name": "Sierra Nevada Ski Resort",
+        "Country": "Spain",
+        "Notes": "beauty,mountains,nature,ski/board,snow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4503981,
+          37.0012053
+        ]
+      },
+      "properties": {
+        "Name": "Tabernas desert",
+        "Country": "Spain",
+        "Notes": "beauty,desert,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.44539,
+          36.6770842
+        ]
+      },
+      "properties": {
+        "Name": "Ubrique",
+        "Country": "Spain",
+        "Notes": "beauty,city,mountains,nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3762881,
+          39.4699075
+        ]
+      },
+      "properties": {
+        "Name": "Valencia",
+        "Country": "Spain",
+        "Notes": "Ferry, Van peeps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8772665,
+          43.6259628
+        ]
+      },
+      "properties": {
+        "Name": "Verdicio beach",
+        "Country": "Spain",
+        "Notes": "beach,beauty,surfing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6647629,
+          46.5324482
+        ]
+      },
+      "properties": {
+        "Name": "Blausee",
+        "Country": "Switzerland",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4148637,
+          46.5724095
+        ]
+      },
+      "properties": {
+        "Name": "Furka Pass",
+        "Country": "Switzerland",
+        "Notes": "beauty,mountains,road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8632049,
+          46.6863481
+        ]
+      },
+      "properties": {
+        "Name": "Interlaken",
+        "Country": "Switzerland",
+        "Notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.227512,
+          46.818188
+        ]
+      },
+      "properties": {
+        "Name": "Switzerland",
+        "Country": "Switzerland",
+        "Notes": "beauty,mountains,ski/board,snow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749117,
+          46.0207133
+        ]
+      },
+      "properties": {
+        "Name": "Zermatt",
+        "Country": "Switzerland",
+        "Notes": "beauty,mountains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.029717,
+          49.839683
+        ]
+      },
+      "properties": {
+        "Name": "Lviv",
+        "Country": "Ukraine",
+        "Notes": "city,culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233095,
+          46.482526
+        ]
+      },
+      "properties": {
+        "Name": "Odessa",
+        "Country": "Ukraine",
+        "Notes": "beach,city,culture"
+      }
+    }
+  ]
+}
