@@ -8,7 +8,7 @@ import SignupPage from './pages/Signup'
 import { setAuthToken } from './helpers/setAuthToken';
 import { history } from "./helpers/history"
 
-
+import Upload from "./components/Upload"
 
 function App() {
   const token = localStorage.getItem("token")
@@ -17,15 +17,16 @@ function App() {
   }
 
   return (
-    <BrowserRouter history={history}>
-      <Routes>
-        <Route exact path="/" element={<PrivateRoute />}>
-         <Route exact path="/" element={<Home />} />
-        </Route>
-        <Route path="/login" element={<LoginPage />} />
-        <Route path="/signup" element={<SignupPage />} />
-      </Routes>
-    </BrowserRouter>
+    // <BrowserRouter history={history}>
+    //   <Routes>
+    //     <Route exact path="/" element={<PrivateRoute />}>
+    //      <Route exact path="/" element={<Home />} />
+    //     </Route>
+    //     <Route path="/login" element={<LoginPage />} />
+    //     <Route path="/signup" element={<SignupPage />} />
+    //   </Routes>
+    // </BrowserRouter>
+    <Upload />
   );
 }
 
