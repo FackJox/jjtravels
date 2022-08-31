@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react'
 
 // change to .env
-const API_URL = process.env.REACT_APP_API_URL
+const API_URL = "http://localhost:7000"
+console.log(API_URL)
 
 const getImages = async (nextCursor) => {
     const params = new URLSearchParams()

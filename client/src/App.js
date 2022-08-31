@@ -1,30 +1,30 @@
-import React from "react"
-import { Routes, Route, BrowserRouter } from "react-router-dom"
-
-import PrivateRoute from "./components/PrivateRoute"
-import Home from "./pages/Home"
-import LoginPage from "./pages/Login"
-import SignupPage from './pages/Signup'
-import { setAuthToken } from './helpers/setAuthToken';
-import { history } from "./helpers/history"
-
+import React, { useState } from 'react';
+import Navbar from './components/Navbar';
+import Sidebar from './components/Sidebar'
+import Map from './pages/Map/Map'
+import Gallery from './pages/Gallery';
+import Login from './pages/Login'
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 
 
 function App() {
-  const token = localStorage.getItem("token")
-  if (token) {
-    setAuthToken(token)
+  const [sidebar, setSidebar] = useState(false)
+
+  const handleSidebar = () => {
+    setSidebar(!sidebar)
   }
 
   return (
-    <BrowserRouter history={history}>
+    <BrowserRouter>
+    <div>
+      <Navbar onClick={handleSidebar}/>
+      <Sidebar sidebar={sidebar} onClick={handleSidebar}/>
       <Routes>
-        <Route exact path="/" element={<PrivateRoute />}>
-         <Route exact path="/" element={<Home />} />
-        </Route>
-        <Route path="/login" element={<LoginPage />} />
-        <Route path="/signup" element={<SignupPage />} />
+      <Route path="/" element={<Map />} />
+      <Route path="/map" element={<Map />} />
+      <Route path="/gallery" element={<Gallery />} />
       </Routes>
+    </div>
     </BrowserRouter>
   );
 }

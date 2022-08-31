@@ -1,8 +1,15 @@
-const express = require('express');
-const router = express.Router();
+const express = require('express')
+const cors = require('cors')
 const dotenv = require('dotenv')
 const axios = require('axios')
+const { json } = require('body-parser')
 
+const app = express()
+const PORT = 7000
+app.listen(PORT, console.log(`Server running on ${PORT}`))
+
+app.use(cors())
+app.use(json())
 
 const { parsed: config } = dotenv.config()
 
@@ -12,7 +19,7 @@ const auth = {
     password: config.API_SECRET,
 }
 
-router.get('/photos', async(req, res) => {
+app.get('/photos', async(req, res) => {
     const response = await axios.get(BASE_URL, {
         auth,
         params: {
@@ -21,5 +28,3 @@ router.get('/photos', async(req, res) => {
     })
     return res.send(response.data)
 })
-
-module.exports = router;
