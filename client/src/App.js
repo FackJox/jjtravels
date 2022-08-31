@@ -9,6 +9,7 @@ import { setAuthToken } from './helpers/setAuthToken';
 import { history } from "./helpers/history"
 
 import Upload from "./components/Upload"
+import Gallery from "./components/Gallery"
 
 function App() {
   const token = localStorage.getItem("token")
@@ -26,7 +27,7 @@ function App() {
     //     <Route path="/signup" element={<SignupPage />} />
     //   </Routes>
     // </BrowserRouter>
-    <Upload />
+    <Gallery />
   );
 }
 

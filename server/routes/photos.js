@@ -12,7 +12,7 @@ const auth = {
     password: config.API_SECRET,
 }
 
-router.get('/photos', async(req, res) => {
+router.get('/', async(req, res) => {
     const response = await axios.get(BASE_URL, {
         auth,
         params: {

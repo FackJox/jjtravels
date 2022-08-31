@@ -1,14 +1,33 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
 
 const Upload = () => {
+  const [selectedPhotos, setSelectedPhotos] = useState()
+  const [preview, setPreview] = useState()
 
-function photosSelected() {
-  const files = document.querySelector("[type=file]").files;
-  console.log(files)
+  useEffect(() => {
+    if (!selectedPhotos) {
+      setPreview(undefined)
+      return
+    }
+    const objectUrl = URL.createObjectURL(selectedPhotos)
+    setPreview(objectUrl)
+
+    return () => URL.revokeObjectURL(objectUrl)
+  }, [selectedPhotos])
+
+const onSelectPhoto = e => {
+  if (!e.target.files || e.target.files.length === 0) {
+    setSelectedPhotos(undefined)
+    return
+  }
+
+  //change to display one image or plenty here, currently first file displayed
+  setSelectedPhotos(e.target.files[0])
 }
 
-function submitFiles(event) {
+
+function submitPhoto(event) {
 
     event.preventDefault();
 
@@ -44,8 +63,9 @@ function submitFiles(event) {
   return (
     <>
       <div>
-        <form method="post" encType="multipart/form-data" onSubmit={submitFiles}>
-          <input type="file" name="files[]" multiple  onChange={photosSelected}/>
+        {selectedPhotos && <img src={preview} /> }
+        <form method="post" encType="multipart/form-data" onSubmit={submitPhoto}>
+          <input type="file" name="files[]" multiple  onChange={onSelectPhoto}/>
           <input type="submit" value="Upload Files" name="submit" />
         </form>
       </div>
