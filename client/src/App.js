@@ -8,7 +8,8 @@ import SignupPage from './pages/Signup'
 import { setAuthToken } from './helpers/setAuthToken';
 import { history } from "./helpers/history"
 
-
+import Map from "./components/Map/Map"
+import Gallery from "./components/Gallery"
 
 function App() {
   const token = localStorage.getItem("token")
@@ -19,8 +20,12 @@ function App() {
   return (
     <BrowserRouter history={history}>
       <Routes>
-        <Route exact path="/" element={<PrivateRoute />}>
-         <Route exact path="/" element={<Home />} />
+        <Route path="/" element={<PrivateRoute />}>
+          <Route path="/" element={<Home />} >
+            <Route path="/" element={<Map />} />
+            <Route path="/map" element={<Map />} />
+            <Route path="/gallery" element={<Gallery />} />
+          </Route>
         </Route>
         <Route path="/login" element={<LoginPage />} />
         <Route path="/signup" element={<SignupPage />} />

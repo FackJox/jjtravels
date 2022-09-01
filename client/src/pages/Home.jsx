@@ -1,13 +1,9 @@
 import React, { useState } from 'react';
-import { Routes, Route, BrowserRouter } from "react-router-dom"
+import { Outlet } from "react-router-dom"
 
-import PrivateRoute from "../components/PrivateRoute"
 import { setAuthToken } from '../helpers/setAuthToken';
 import Navbar from '../components/Navbar';
 import Sidebar from '../components/Sidebar'
-import Map from '../components/Map/Map'
-import Gallery from '../components/Gallery';
-
 
 function Home() {
   const token = localStorage.getItem("token")
@@ -22,18 +18,11 @@ function Home() {
   }
 
   return (
-      <div>
-        <Navbar onClick={handleSidebar} />
-        <Sidebar sidebar={sidebar} onClick={handleSidebar} />
-        <Routes>
-          <Route exact path="/" element={<PrivateRoute />}>
-            <Route path="/" element={<Map />} />
-            <Route path="/map" element={<Map />} />
-            <Route path="/gallery" element={<Gallery />} />
-          </Route>
-
-        </Routes>
-      </div>
+    <>
+      <Navbar onClick={handleSidebar} />
+      <Sidebar sidebar={sidebar} onClick={handleSidebar} />
+      <Outlet />
+    </>
   );
 }
 
