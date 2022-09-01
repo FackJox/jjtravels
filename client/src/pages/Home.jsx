@@ -27,7 +27,7 @@ function Home() {
         <Sidebar sidebar={sidebar} onClick={handleSidebar} />
         <Routes>
           <Route exact path="/" element={<PrivateRoute />}>
-            <Route path="/" element={<Map />} />
+            <Route path="/" element={<Gallery />} />
             <Route path="/map" element={<Map />} />
             <Route path="/gallery" element={<Gallery />} />
           </Route>
