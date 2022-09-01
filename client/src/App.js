@@ -27,7 +27,7 @@ function App() {
     //     <Route path="/signup" element={<SignupPage />} />
     //   </Routes>
     // </BrowserRouter>
-    <Gallery />
+    <Upload />
   );
 }
 
