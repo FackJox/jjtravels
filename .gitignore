@@ -8,6 +8,8 @@ node_modules
 # testing
 /coverage
 
+# archive/js versions
+_ref
 
 # production
 build
