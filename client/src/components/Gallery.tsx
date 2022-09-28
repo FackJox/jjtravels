@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from 'react'
 
 type getImagesProps = {
-    nextCursor: string | null
+    nextCursor: string
 }
 
-type setImageListProps = {
-
+interface ImageListProps {
+    url: string
+    publicid: string
 }
 
 // change to .env
@@ -22,8 +23,8 @@ const getImages = async ({nextCursor}: getImagesProps) => {
 }
 
 const Gallery = () => {
-    const [imageList, setImageList] = useState([])
-    const [nextCursor, setNextCursor] = useState(null)
+    const [imageList, setImageList] = useState<ImageListProps[]>([])
+    const [nextCursor, setNextCursor] = useState(null!)
 
     useEffect(() => {
         const fetchData = async () => {

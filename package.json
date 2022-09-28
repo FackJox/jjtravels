@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "types/express",
+    "@types/express-session": "^1.17.5",
+    "@types/passport": "^1.0.11"
+  }
+}
