@@ -1,4 +1,4 @@
-import { useState, MouseEventHandler } from 'react';
+import { useState } from 'react';
 import { Routes, Route} from "react-router-dom"
 
 import PrivateRoute from "../components/PrivateRoute"
@@ -17,7 +17,7 @@ function Home() {
 
   const [sidebar, setSidebar] = useState(false)
 
-  const handleSidebar: MouseEventHandler<HTMLFormElement> = () => {
+  const handleSidebar = ()=> {
     setSidebar(!sidebar)
   }
 

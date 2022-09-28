@@ -1,18 +1,23 @@
-const express = require('express');
+import express, { Request, Response} from 'express'
+import dotenv, { DotenvConfigOutput } from 'dotenv'
+import axios, { AxiosBasicCredentials } from 'axios'
+
+type GetHomePageProps = {
+    req: Request
+    res: Response
+  } 
+
 const router = express.Router();
-const dotenv = require('dotenv')
-const axios = require('axios')
 
+const { parsed: config }: DotenvConfigOutput = dotenv.config()
 
-const { parsed: config } = dotenv.config()
-
-const BASE_URL = `https://api.cloudinary.com/v1_1/${config.CLOUD_NAME}/resources/image`
+const BASE_URL = `https://api.cloudinary.com/v1_1/${config!.CLOUD_NAME}/resources/image`
 const auth = {
-    username: config.API_KEY,
-    password: config.API_SECRET,
+    username: config!.API_KEY,
+    password: config!.API_SECRET,
 }
 
-router.get('/', async(req, res) => {
+router.get('/', async({req, res}: GetHomePageProps) => {
     const response = await axios.get(BASE_URL, {
         auth,
         params: {

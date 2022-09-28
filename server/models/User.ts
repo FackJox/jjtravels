@@ -1,5 +1,6 @@
-const mongoose = require('mongoose');
-const passportLocalMongoose = require('passport-local-mongoose');
+import mongoose from 'mongoose'
+import passportLocalMongoose from 'passport-local-mongoose'
+
 const Schema = mongoose.Schema;
 
 var User = new Schema({
@@ -21,7 +22,6 @@ User.plugin(passportLocalMongoose, {
     digestAlgorithm: 'sha1',
     maxInterval: 300000,
     usernameField: "email",
-    emailAuth: token,
     // usernameUnique: false,
     TooManyAttemptsError:
       "Account locked due to too many failed login attempts. Please reset your password to unlock your account.",
